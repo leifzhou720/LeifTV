@@ -18,5 +18,56 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TRT" tvg-name="TRT World" group-title="News",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews English" group-title="News",Euronews English
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSNews" tvg-name="PBS News" group-title="News",PBS News
+https://pbs-newshour.streamguys1.com/pbslive.m3u8
+
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang TV" group-title="News",Arirang TV
+https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTN Documentary" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" group-title="News",WION
+https://dai.google.com/linear/hls/event/.../master.m3u8
+
+#EXTINF:-1 tvg-id="RTVE24" tvg-name="RTVE 24H" group-title="News",RTVE 24H
+https://rtvelivestream.akamaized.net/rtvesec/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar News" group-title="Business",Cheddar News
+https://live.chdrstatic.com/chd/primary/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsNet" tvg-name="NewsNet" group-title="News",NewsNet
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+
+#EXTINF:-1 tvg-id="Scripps" tvg-name="Scripps News" group-title="News",Scripps News
+https://content.uplynk.com/channel/.../master.m3u8
+
+#EXTINF:-1 tvg-id="NASAHD" tvg-name="NASA Media" group-title="Science",NASA Media
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus1" tvg-name="CCTV+ 1" group-title="China",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus2" tvg-name="CCTV+ 2" group-title="China",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNAmerica" tvg-name="CGTN America" group-title="China",CGTN America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯" group-title="China",凤凰资讯
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯(备用)" group-title="China",凤凰资讯
+http://103.95.24.37:880/fhzx.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChinese" tvg-name="凤凰卫视中文台" group-title="China",凤凰卫视中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯台" group-title="China",凤凰资讯台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
