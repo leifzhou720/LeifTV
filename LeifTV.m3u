@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="test" tvg-name="Big Buck Bunny" group-title="Test",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV" group-title="Science",NASA TV
-https://ntv1.akamaized.net/hls/live/2016873/NASA-NTV1/master.m3u8
+#EXTINF:-1 tvg-id="BloombergEU" tvg-name="Bloomberg Europe" group-title="News",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" group-title="News",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -12,11 +12,11 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France24 English" group-title="News",France24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="News",DW English
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="BloombergAU" tvg-name="Bloomberg Australia" group-title="News",Bloomberg Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
-#EXTINF:-1 tvg-id="AJE" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TRT" tvg-name="TRT World" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
