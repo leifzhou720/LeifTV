@@ -60,14 +60,15 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNAmerica" tvg-name="CGTN America" group-title="China",CGTN America
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯" group-title="China",凤凰资讯
-https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="Australia",Australia Melbourne
+https://i.mjh.nz/au/Melbourne/raw-tv.m3u8
 
-#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯(备用)" group-title="China",凤凰资讯
-http://103.95.24.37:880/fhzx.m3u8
+#EXTINF:-1 group-title="Australia",Australia All
+https://i.mjh.nz/au/all/raw-tv.m3u8
 
-#EXTINF:-1 tvg-id="PhoenixChinese" tvg-name="凤凰卫视中文台" group-title="China",凤凰卫视中文台
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="NZ",NZ TV
+https://i.mjh.nz/nz/raw-tv.m3u8
 
-#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯台" group-title="China",凤凰资讯台
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/au.m3u8
+
+https://i.mjh.nz/PBS/all.m3u8
